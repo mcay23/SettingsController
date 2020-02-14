@@ -1,6 +1,6 @@
 # SettingsController
 
-Simple settings file controller in Java.
+Simple settings file controller in Java for easy storage/retrieval.
 Sorted by insertion order.
 
 write() must be called to write changes in file
